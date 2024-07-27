@@ -1,2 +1,2 @@
-# SepehrTradeAssistant
-Simple and efficient trade assistant 
+# Sepehr Trade Assistant
+Simple , free and efficient trade assistant for forex trading
